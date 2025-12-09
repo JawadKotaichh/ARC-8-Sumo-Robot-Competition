@@ -83,4 +83,6 @@ When no opponent is detected, the robot performs a **star search pattern**:
 
 This systematic approach ensures comprehensive coverage of the ring area and prevents the robot from getting stuck in corners.
 
+---
+
 **Note**: Test the robot thoroughly before competition and adjust parameters based on your hardware configuration.
